@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-guide-core",
+    "options": {
+        "niceName": "Guide Core",
+        "guiName": "tera-guide-core"
+    },
+    "author": "HSDN/ KYGAS",
+    "description": "TERA-Guide module library.",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-guide-core/master/"],
+    "supportUrl": "https://github.com/KYGAS/tera-guide/issues",
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/KYGAS/library/master/"
+    }
+}
